@@ -74,5 +74,9 @@
       "require": "5.2.*",
       "docker": true
     }
+  },
+  "require-dev": {
+    "symfony/stopwatch": "^5.2",
+    "symfony/web-profiler-bundle": "^5.2"
   }
 }
